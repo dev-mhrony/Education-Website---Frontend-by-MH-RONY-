@@ -4,6 +4,7 @@
 
 /**
  * copyright 2022 @dev-mhrony
+ * Website : www.developerrony.com
  */
 
 
@@ -20,7 +21,7 @@
    * colors 
    */
 
-  --red-orange-color-wheel: hsl(0, 100%, 63%);
+  --red-orange-color-wheel: hsl(15, 98%, 55%);
   --ultramarine-blue: hsl(217, 100%, 50%);
   --lavender-blue: hsl(229, 96%, 91%);
   --oxford-blue: hsl(229, 84%, 12%);

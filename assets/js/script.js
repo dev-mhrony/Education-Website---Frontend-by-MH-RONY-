@@ -1,4 +1,7 @@
-//copyright 2022 @dev-mhrony
+
+// copyright 2022 @dev-mhrony
+// Website : www.developerrony.com
+
 'use strict';
 
 // navbar variables

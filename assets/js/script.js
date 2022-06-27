@@ -1,3 +1,4 @@
+//copyright 2022 @dev-mhrony
 'use strict';
 
 // navbar variables
